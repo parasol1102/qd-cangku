@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <public publicId="-//Apache Software Foundation//DTD Struts Configuration 2.5//EN" uri="file:///D:/大学/软工实践/资料/struts-2.5.22-all/struts-2.5.22/lib/struts2-core-2.5.22/struts-2.5.dtd" webURL="http://struts.apache.org/dtds/struts-2.5.dtd"/>
+</catalog>

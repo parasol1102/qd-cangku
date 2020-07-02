@@ -1,0 +1,5 @@
+package userBean;
+
+public class User {
+
+}

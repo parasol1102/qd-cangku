@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>use Eclipse to set a JSP</title>
+</head>
+<body>
+<form action="/chapter04/succes">
+    用户:<input name="name" style="margin-left:10px;"><br>
+    密码:<input name="password" style="margin-left:10px;"><br>
+    <input type="submit" value="登录" style="position: absolute; left: 50px; top:60px;">
+    </form>
+  
+    <a style="position: absolute; left: 110px; top:60px;" href='/chapter04/register.jsp' >注册</a>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\javava" version="1.8.0_251">
+<bootpath>
+<entry path="D:\javava\lib\resources.jar"/>
+<entry path="D:\javava\lib\rt.jar"/>
+<entry path="D:\javava\lib\sunrsasign.jar"/>
+<entry path="D:\javava\lib\jsse.jar"/>
+<entry path="D:\javava\lib\jce.jar"/>
+<entry path="D:\javava\lib\charsets.jar"/>
+<entry path="D:\javava\lib\jfr.jar"/>
+<entry path="D:\javava\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\javava\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\javava\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

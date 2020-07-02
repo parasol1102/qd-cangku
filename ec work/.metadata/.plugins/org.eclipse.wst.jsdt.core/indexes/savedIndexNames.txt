@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\大学\软工实践\ec work\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4198679824.index
+1825649698.index
+669947928.index
+3775638068.index
+3069134441.index
+3210982420.index
+669947928.index
+243448944.index

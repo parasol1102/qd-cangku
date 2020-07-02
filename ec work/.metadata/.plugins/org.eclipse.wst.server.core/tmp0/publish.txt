@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Thu Jul 02 22:54:53 GMT+08:00 2020
+org.eclipse.jst.jee.server\:/binary\:D\:\\\u5927\u5B66\\\u8F6F\u5DE5\u5B9E\u8DF5\\ec\ work\\shop\\WebContent\\WEB-INF\\lib\\spring-web-4.3.25.RELEASE.jar=WEB-INF/lib/spring-web-4.3.25.RELEASE.jar
